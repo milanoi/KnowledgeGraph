@@ -8,4 +8,6 @@ Read in this order:
 3. Knowledge Graph Pre-Processing
 4. Knowledge Graph (Coming Soon)
 
+Once I'm done with part four i'll link the Google Colab notebooks as well.
+
 Suggestions, questions and comments are welcome :)
